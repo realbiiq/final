@@ -10,6 +10,10 @@ body {
 {
     border-round: 1px;
 }
+.container-fluid:hover
+{
+    border: 2px, flat;
+}
 
   .navbar-brand {
     display: flex;

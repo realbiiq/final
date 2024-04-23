@@ -6,15 +6,6 @@ body {
     background-color: #f8f9fa;
   }
 
-.container-fluid
-{
-    border-round: 1px;
-}
-.container-fluid:hover
-{
-    border: 2px, flat;
-}
-
   .navbar-brand {
     display: flex;
     justify-content: center;
